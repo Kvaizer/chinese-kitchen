@@ -1,0 +1,12 @@
+.mainContainer {
+  position: relative;
+}
+
+.menuItem {
+  width: 70%;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
