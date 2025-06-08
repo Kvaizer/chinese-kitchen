@@ -9,7 +9,7 @@ type MenuItemT = {
 export const MenuItem: FC<MenuItemT> = ({ imgSrc }) => {
   return (
     <div className="menuItem">
-      <img src={imgSrc} className="img" />
+      <img src={imgSrc} className="img" loading="lazy"/>
     </div>
   );
 };
