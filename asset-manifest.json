@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/chinese-kitchen/static/css/main.3cb89c1f.css",
+    "main.js": "/chinese-kitchen/static/js/main.f9b0accb.js",
+    "static/media/salads1.jpg": "/chinese-kitchen/static/media/salads1.85c6afa9d782e7741c97.jpg",
+    "static/media/salads2.jpg": "/chinese-kitchen/static/media/salads2.9ffb9410669852a13520.jpg",
+    "static/media/pork4.jpg": "/chinese-kitchen/static/media/pork4.58088d2a2081819b7d87.jpg",
+    "static/media/chicken1.jpg": "/chinese-kitchen/static/media/chicken1.127114c0d3231d8dce2a.jpg",
+    "static/media/bar.jpg": "/chinese-kitchen/static/media/bar.10a9a414738115029be4.jpg",
+    "static/media/fish1.jpg": "/chinese-kitchen/static/media/fish1.c73ceeead613a69dcc18.jpg",
+    "static/media/hot-vegetables2.jpg": "/chinese-kitchen/static/media/hot-vegetables2.e18549ce8712004da711.jpg",
+    "static/media/rules-and-fines.jpg": "/chinese-kitchen/static/media/rules-and-fines.2e315541175ba40bc4a4.jpg",
+    "static/media/chicken2.jpg": "/chinese-kitchen/static/media/chicken2.925186240d81e6b5df03.jpg",
+    "static/media/pork3.jpg": "/chinese-kitchen/static/media/pork3.afea228ea277ac7fa610.jpg",
+    "static/media/beef2.jpg": "/chinese-kitchen/static/media/beef2.99a64e2df2419c537018.jpg",
+    "static/media/beef1.jpg": "/chinese-kitchen/static/media/beef1.27c29754a2a5f43726cd.jpg",
+    "static/media/garnishes.jpg": "/chinese-kitchen/static/media/garnishes.fd90a376b00a954451d5.jpg",
+    "static/media/pork1.jpg": "/chinese-kitchen/static/media/pork1.0d6d5e25f389dc0db714.jpg",
+    "static/media/pork2.jpg": "/chinese-kitchen/static/media/pork2.3f9adb126e2fc41d1373.jpg",
+    "static/media/hot-vegetables1.jpg": "/chinese-kitchen/static/media/hot-vegetables1.0a43549b80bcbf98e41f.jpg",
+    "index.html": "/chinese-kitchen/index.html",
+    "main.3cb89c1f.css.map": "/chinese-kitchen/static/css/main.3cb89c1f.css.map",
+    "main.f9b0accb.js.map": "/chinese-kitchen/static/js/main.f9b0accb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb89c1f.css",
+    "static/js/main.f9b0accb.js"
+  ]
+}
