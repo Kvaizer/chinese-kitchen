@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/chinese-kitchen/static/css/main.3cb89c1f.css",
-    "main.js": "/chinese-kitchen/static/js/main.ae96869e.js",
+    "main.js": "/chinese-kitchen/static/js/main.74740e3c.js",
+    "static/media/fish2.jpg": "/chinese-kitchen/static/media/fish2.d58c8863f127b37d49d7.jpg",
     "static/media/salads1.jpg": "/chinese-kitchen/static/media/salads1.e430aa36bea81d5d1be7.jpg",
     "static/media/salads2.jpg": "/chinese-kitchen/static/media/salads2.37e31723129a731abf21.jpg",
     "static/media/bar.jpg": "/chinese-kitchen/static/media/bar.4a6e2fd9522df25396ea.jpg",
@@ -21,10 +22,10 @@
     "static/media/hot-vegetables1.jpg": "/chinese-kitchen/static/media/hot-vegetables1.295e655c704491e9dcd5.jpg",
     "index.html": "/chinese-kitchen/index.html",
     "main.3cb89c1f.css.map": "/chinese-kitchen/static/css/main.3cb89c1f.css.map",
-    "main.ae96869e.js.map": "/chinese-kitchen/static/js/main.ae96869e.js.map"
+    "main.74740e3c.js.map": "/chinese-kitchen/static/js/main.74740e3c.js.map"
   },
   "entrypoints": [
     "static/css/main.3cb89c1f.css",
-    "static/js/main.ae96869e.js"
+    "static/js/main.74740e3c.js"
   ]
 }
