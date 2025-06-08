@@ -1,3 +1,4 @@
+import menu from "../assets/menu.jpg"
 import salad1 from '../assets/salads1.jpg';
 import salad2 from '../assets/salads2.jpg';
 import beef1 from '../assets/beef1.jpg';
@@ -23,6 +24,11 @@ type MenuItemT = {
 }
 
 export const db: Array<MenuItemT> = [
+    {
+        id: "0",
+        name: "menu",
+        imgSrc: menu
+    },
     {
         id: "1",
         name: "salads1",
