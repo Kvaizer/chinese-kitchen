@@ -10,7 +10,7 @@ import pork4 from '../assets/pork4.jpg';
 import chicken1 from '../assets/chicken1.jpg';
 import chicken2 from '../assets/chicken2.jpg';
 import fish1 from '../assets/fish1.jpg';
-import fish2 from '../assets/fish1.jpg';
+import fish2 from '../assets/fish2.jpg';
 import hotVegetables1 from '../assets/hot-vegetables1.jpg';
 import hotVegetables2 from '../assets/hot-vegetables2.jpg';
 import garnishes from '../assets/garnishes.jpg';
